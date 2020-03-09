@@ -2,8 +2,8 @@
 * March 2020
 * AGuilhin
 
-*V2 for github new branch
-*Change: test
+*V3 change for github new branch! (v2 was for commit)
+*Change: test2
 
 	global lsms_ug "C:\Users\AGuilhin\Documents\8. National Data\LSMS - Uganda\2015\2_data\UGA_2015_UNPS_v01_M_STATA8"
 	global rad_presentation "C:\Users\AGuilhin\Box Sync\3_RADsummit\04 Presentation"
